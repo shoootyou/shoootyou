@@ -16,7 +16,7 @@ I'm a networking guy in a developer's world.
 - GitHub & Gitlab
 - Kubernetes
 - Docker & Containerd
-- Existential problems and everything you want.!
+- Existential problems and everything you want!
 
 ### 📫 Connect:
 - LinkedIn: https://www.linkedin.com/in/rcastelomendez/
