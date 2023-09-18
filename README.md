@@ -5,7 +5,7 @@ I'm a networking guy in a developer's world.
 
 ### 🔭 Work work work:
 - I’m currently working on SoftwareONE
-- In Orion, I'm Cloud Architect and Lleader of the Automation Squad.
+- In SWO, I'm Solutions Architect at Google Cloud Team.
 
 ### 🌱 Ask me about:
 - Hashicorp Terraform (Cloud & Community)
