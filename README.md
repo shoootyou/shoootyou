@@ -4,7 +4,7 @@ I'm a networking guy in a developer's world.
 ![shoootyou's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoootyou&show_icons=true&theme=transparent)
 
 ### 🔭 Work work work:
-- I’m currently working on [Orion Global](https://github.com/orion-global)
+- I’m currently working on SoftwareONE
 - In Orion, I'm Cloud Architect and Lleader of the Automation Squad.
 
 ### 🌱 Ask me about:
