@@ -2,8 +2,7 @@
 I'm a networking guy in a developer's world.
 
 ### 🔭 Work work work:
-- I’m currently working on SoftwareONE
-- In SWO, I'm Solutions Architect at Google Cloud Team.
+- I’m currently working on HashiCorp as Solutions Architect at CDL Team.
 
 ### 🌱 Ask me about:
 - Hashicorp Terraform (Cloud & Community)
