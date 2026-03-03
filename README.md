@@ -11,6 +11,3 @@ I'm a networking guy in a developer's world.
 - Kubernetes
 - Docker & Containerd
 - Existential problems and everything you want!
-
-### 📫 Connect:
-- LinkedIn: https://www.linkedin.com/in/rcastelomendez/
